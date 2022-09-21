@@ -1,0 +1,21 @@
+前言
+从 V2ray Core 4.33.0 的版本移除了 XTLS 以后，rprx 就和其他的拥护者们创建了 Project X 项目，然后取名于 XTLS 的 X 和 V2ray 的 ray，从而也就诞生了 Xray！
+然而我们大部分人最喜欢使用的代理软件 Clash，因为是集成的Clash Core，所有并不支持Xray的一些协议，于是也就就衍生出来了 Clash.Meta 内核。
+这个内核支持我们常用的 VLESS XTLS、Trojan XTLS 、Hysteria 等流行的一些自建协议，而且专属规则里面还支持，Proxy – Providers 直接使用 V2rayN 等客户端的普通订阅进行节点订阅，还是很强大的。
+准备工作
+1、VPS 一台，搭建好自己所需的节点（作者使用 搬瓦工 CN2 GIA – E ）
+2、Clash For Windows 下载 （根据自己的操作系统下载相应的版本）
+3、Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）
+4、Hysteria 自建节点搭建
+5、Xray、VLESS、XTLS、Trojan等自建节点搭建（Xui面板）
+## Clash For Windows切换Meta内核
+MacOS 端切换内核
+友情提示，若是下载的 Clash For Windows 无法使用，提示："已损坏，无法打开。 您应该将它移到废纸篓。"
+'sudo spctl --master-disable'
+若是还是无法运行，请输入下面的命令之后（命令后面有一个空格），然后在程序中找到报错的程序拖动到终端框中，回车
+'sudo xattr -d com.apple.quarantine '
+Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）
+MacOS 的内核路径如下（M1芯片）：
+/Applications/Clash for Windows.app/Contents/Resources/static/files/darwin/arm64/clash-darwin
+（Intel 的处理器，路径大致相同)
+
