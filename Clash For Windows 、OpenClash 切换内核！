@@ -98,7 +98,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     cipher: chacha20-ietf-poly1305
     password: "password"
     # udp: true
-’
+    ’
   - name: "ss2"
     type: ss
     server: server
@@ -109,7 +109,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     plugin-opts:
       mode: tls # or http
       # host: bing.com
-’
+    ’
   - name: "ss3"
     type: ss
     server: server
@@ -126,7 +126,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
       # mux: true
       # headers:
       #   custom: value
-‘
+    ‘
 ### vmess
 ### 加密支持 auto/aes-128-gcm/chacha20-poly1305/none
 ’
@@ -148,7 +148,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     #     Host: v2ray.com
     #   max-early-data: 2048
     #   early-data-header-name: Sec-WebSocket-Protocol
-‘
+    ‘
   - name: "vmess-h2"
     type: vmess
     server: server
@@ -163,7 +163,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
         - http.example.com
         - http-alt.example.com
       path: /
-’
+    ’
   - name: "vmess-http"
     type: vmess
     server: server
@@ -181,7 +181,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     #   # headers:
     #   #   Connection:
     #   #     - keep-alive
-‘
+    ‘
   - name: vmess-grpc
     server: server
     port: 443
@@ -195,7 +195,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     # skip-cert-verify: true
     grpc-opts:
       grpc-service-name: "example"
-’
+    ’
 ### socks5
 ’
   - name: "socks"
@@ -249,7 +249,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     #   - h2
     #   - http/1.1
     # skip-cert-verify: true
-‘
+    ‘
   - name: trojan-grpc
     server: server
     port: 443
@@ -261,7 +261,7 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
     udp: true
     grpc-opts:
       grpc-service-name: "example"
-’
+    ’
   - name: trojan-ws
     server: server
     port: 443
@@ -279,24 +279,24 @@ OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 
 ## 范例 YAML 文件
 贴上 演示视频 中的 范例 YAML 文件
 ‘
-    port: 7890
-    socks-port: 7891
-    allow-lan: true
-    mode: Rule
-    log-level: info
-    ipv6: true
-    dns:
-    enable: true
-    listen: 0.0.0.0:53
-    ipv6: true
-    default-nameserver:
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+ipv6: true
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  ipv6: true
+  default-nameserver:
     - 114.114.114.114
     - 223.5.5.5
-    enhanced-mode: redir-host
-    nameserver:
+  enhanced-mode: redir-host
+  nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-    fallback:
+  fallback:
     - 114.114.114.114
     - 223.5.5.5
 
@@ -372,7 +372,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 自建节点 🇺🇸
-rules:
+    rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
