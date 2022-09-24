@@ -1,34 +1,34 @@
-前言
+## 前言
 从 V2ray Core 4.33.0 的版本移除了 XTLS 以后，rprx 就和其他的拥护者们创建了 Project X 项目，然后取名于 XTLS 的 X 和 V2ray 的 ray，从而也就诞生了 Xray！
 然而我们大部分人最喜欢使用的代理软件 Clash，因为是集成的Clash Core，所有并不支持Xray的一些协议，于是也就就衍生出来了 Clash.Meta 内核。
 这个内核支持我们常用的 VLESS XTLS、Trojan XTLS 、Hysteria 等流行的一些自建协议，而且专属规则里面还支持，Proxy – Providers 直接使用 V2rayN 等客户端的普通订阅进行节点订阅，还是很强大的。
-准备工作
+## 准备工作
 1、VPS 一台，搭建好自己所需的节点（作者使用 搬瓦工 CN2 GIA – E ）
 2、Clash For Windows 下载 （根据自己的操作系统下载相应的版本）(https://github.com/Fndroid/clash_for_windows_pkg/releases)
 3、Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）(https://github.com/MetaCubeX/Clash.Meta/releases)
 4、Hysteria 自建节点搭建
 5、Xray、VLESS、XTLS、Trojan等自建节点搭建（Xui面板）
 ## Clash For Windows切换Meta内核
-MacOS 端切换内核
-友情提示，若是下载的 Clash For Windows 无法使用，提示："已损坏，无法打开。 您应该将它移到废纸篓。"
+### MacOS 端切换内核
+友情提示，若是下载的 Clash For Windows 无法使用，提示："已损坏，无法打开。 您应该将它移到废纸篓。" 终端运行以下代码：
 'sudo spctl --master-disable'
-若是还是无法运行，请输入下面的命令之后（命令后面有一个空格），然后在程序中找到报错的程序拖动到终端框中，回车
+若是还是无法运行，终端请输入下面的命令之后（命令后面有一个空格），然后在程序中找到报错的程序拖动到终端框中，回车
 'sudo xattr -d com.apple.quarantine '
-Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）(https://github.com/MetaCubeX/Clash.Meta/releases)
+### Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）(https://github.com/MetaCubeX/Clash.Meta/releases)
 MacOS 的内核路径如下（M1芯片）：
 /Applications/Clash for Windows.app/Contents/Resources/static/files/darwin/arm64/clash-darwin
 （Intel 的处理器，路径大致相同)
 若要进行使用，需要把原内核改名或是删除，把所需的新内核 Meta 文件放置此处并改名以后，进行授权！授权之后，内核文件才可被使用。'chmod +x '
 完成以后，Clash For Windows 里面，已经不认识这个 Core 了，正常情况，下图为替换成功！
-Windows 端切换内核
+### Windows 端切换内核
 Clash.Meta 内核下载 （根据自己的操作系统下载相应的版本）
 下载符合自己操作系统的 Meta 内核，按照下面你的路径进行替换：
 Clash for Windows\resources\static\files\win\x64\clash-win64.exe
-OpenClash 切换内核
+### OpenClash 切换内核
 OpenClash 比较智能化，会识别相关的协议类型从而自动的切换 Meta 内核。所以，只要设置好 OpenClash 以后，其他的就不用管了
-Clash 规则写法教程
-Hysteria 规则（Meta专属）
-"
+## Clash 规则写法教程
+### Hysteria 规则（Meta专属）
+‘
   - name: "hysteria"
     type: hysteria
     server: server.com
@@ -47,10 +47,10 @@ Hysteria 规则（Meta专属）
     #ca: "./my.ca"
     #ca_str: "xyz"
     #disable_mtu_discovery: false
-"
-VLESS 规则（Meta专属）
-包含 TCP (XTLS) 以及 WS 的两种协议！
-"
+
+### VLESS 规则（Meta专属），包含 TCP (XTLS) 以及 WS 的两种协议！
+#### vless-tcp
+‘
   - name: "vless-tcp"
     type: vless
     server: server
@@ -60,7 +60,9 @@ VLESS 规则（Meta专属）
     servername: example.com # AKA SNI
     # flow: xtls-rprx-direct # xtls-rprx-origin  # enable XTLS
     # skip-cert-verify: true
-    
+
+#### vless-ws
+’
   - name: "vless-ws"
     type: vless
     server: server
@@ -75,20 +77,20 @@ VLESS 规则（Meta专属）
       path: "/"
       headers:
         Host: example.com
-"
-其他节点类型规则范例
-"
-  # Shadowsocks
-  # 加密支持:
-  #   aes-128-gcm aes-192-gcm aes-256-gcm
-  #   aes-128-cfb aes-192-cfb aes-256-cfb
-  #   aes-128-ctr aes-192-ctr aes-256-ctr
-  #   rc4-md5 chacha20-ietf xchacha20
-  #   chacha20-ietf-poly1305 xchacha20-ietf-poly1305
+
+### 其他节点类型规则范例
+### Shadowsocks
+  #加密支持:
+  #aes-128-gcm aes-192-gcm aes-256-gcm
+  #aes-128-cfb aes-192-cfb aes-256-cfb
+  #aes-128-ctr aes-192-ctr aes-256-ctr
+  #rc4-md5 chacha20-ietf xchacha20
+  #chacha20-ietf-poly1305 xchacha20-ietf-poly1305
   #【Meta专属】支持SS2022加密：
-  #   2022-blake3-aes-128-gcm
-  #   2022-blake3-aes-256-gcm
-  #   2022-blake3-chacha20-poly1305
+  #2022-blake3-aes-128-gcm
+  #2022-blake3-aes-256-gcm
+  #2022-blake3-chacha20-poly1305
+‘
   - name: "ss1"
     type: ss
     server: server
@@ -96,7 +98,7 @@ VLESS 规则（Meta专属）
     cipher: chacha20-ietf-poly1305
     password: "password"
     # udp: true
- 
+’
   - name: "ss2"
     type: ss
     server: server
@@ -107,7 +109,7 @@ VLESS 规则（Meta专属）
     plugin-opts:
       mode: tls # or http
       # host: bing.com
- 
+’
   - name: "ss3"
     type: ss
     server: server
@@ -124,9 +126,10 @@ VLESS 规则（Meta专属）
       # mux: true
       # headers:
       #   custom: value
- 
-  # vmess
-  # 加密支持 auto/aes-128-gcm/chacha20-poly1305/none
+‘
+### vmess
+### 加密支持 auto/aes-128-gcm/chacha20-poly1305/none
+’
   - name: "vmess"
     type: vmess
     server: server
@@ -145,7 +148,7 @@ VLESS 规则（Meta专属）
     #     Host: v2ray.com
     #   max-early-data: 2048
     #   early-data-header-name: Sec-WebSocket-Protocol
- 
+‘
   - name: "vmess-h2"
     type: vmess
     server: server
@@ -160,7 +163,7 @@ VLESS 规则（Meta专属）
         - http.example.com
         - http-alt.example.com
       path: /
-  
+’
   - name: "vmess-http"
     type: vmess
     server: server
@@ -178,7 +181,7 @@ VLESS 规则（Meta专属）
     #   # headers:
     #   #   Connection:
     #   #     - keep-alive
- 
+‘
   - name: vmess-grpc
     server: server
     port: 443
@@ -192,8 +195,9 @@ VLESS 规则（Meta专属）
     # skip-cert-verify: true
     grpc-opts:
       grpc-service-name: "example"
- 
-  # socks5
+’
+### socks5
+’
   - name: "socks"
     type: socks5
     server: server
@@ -203,8 +207,9 @@ VLESS 规则（Meta专属）
     # tls: true
     # skip-cert-verify: true
     # udp: true
- 
-  # http
+
+### http
+‘
   - name: "http"
     type: http
     server: server
@@ -217,9 +222,10 @@ VLESS 规则（Meta专属）
     # headers:                      #【Meta专属】
     #   X-T5-Auth: "1962xxxxx709"
     #   User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 ...... "
- 
-  # Snell
-  # 不支持UDP
+
+### Snell
+### 不支持UDP
+’
   - name: "snell"
     type: snell
     server: server
@@ -229,8 +235,9 @@ VLESS 规则（Meta专属）
     # obfs-opts:
       # mode: http # or tls
       # host: bing.com
- 
-  # Trojan
+
+### Trojan
+‘
   - name: "trojan"
     type: trojan
     server: server
@@ -242,19 +249,19 @@ VLESS 规则（Meta专属）
     #   - h2
     #   - http/1.1
     # skip-cert-verify: true
- 
+‘
   - name: trojan-grpc
     server: server
     port: 443
     type: trojan
     password: "example"
     network: grpc
-    sni: example.com
+    sni: example.com’
     # skip-cert-verify: true
     udp: true
     grpc-opts:
       grpc-service-name: "example"
- 
+’
   - name: trojan-ws
     server: server
     port: 443
@@ -268,35 +275,34 @@ VLESS 规则（Meta专属）
       # path: /path
       # headers:
       #   Host: example.com
-"
-范例 YAML 文件
+
+## 范例 YAML 文件
 贴上 演示视频 中的 范例 YAML 文件
-"
-port: 7890
-socks-port: 7891
-allow-lan: true
-mode: Rule
-log-level: info
-ipv6: true
-dns:
-  enable: true
-  listen: 0.0.0.0:53
-  ipv6: true
-  default-nameserver:
+‘
+    port: 7890
+    socks-port: 7891
+    allow-lan: true
+    mode: Rule
+    log-level: info
+    ipv6: true
+    dns:
+    enable: true
+    listen: 0.0.0.0:53
+    ipv6: true
+    default-nameserver:
     - 114.114.114.114
     - 223.5.5.5
-  enhanced-mode: redir-host
-  nameserver:
+    enhanced-mode: redir-host
+    nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-  fallback:
+    fallback:
     - 114.114.114.114
     - 223.5.5.5
- 
+
 proxies:
-  # 下面放入你的节点信息（可以多个，认证仔细点！），节点名字支持 🇨🇳 🇭🇰 🇺🇸 🇯🇵 🇰🇷 🇨🇦 🇬🇧 🇩🇪 🇸🇬 🇲🇴 等图标。
- 
- 
+  #下面放入你的节点信息（可以多个，认证仔细点！），节点名字支持 🇨🇳 🇭🇰 🇺🇸 🇯🇵 🇰🇷 🇨🇦 🇬🇧 🇩🇪 🇸🇬 🇲🇴 等图标。
+
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -3780,4 +3786,3 @@ rules:
  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼
-"
