@@ -22,7 +22,7 @@
             </svg>
         </a>BigBigGrandG
         </h4>
-        <p dir="auto"><code>https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BigBigGrandG源</p>
+            <p dir="auto"><code>https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BigBigGrandG源</p>
         </h4>
         </a>
         <h4 dir="auto"><a id="user-content-aptv" class="anchor" aria-hidden="true" href="#aptv">
