@@ -50,8 +50,6 @@
         </h4>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
             Gather</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
-            斗鱼</p>
     <h4 dir="auto"><a id="user-content-yuechan" class="anchor" aria-hidden="true" href="#yuechan">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                  aria-hidden="true">
