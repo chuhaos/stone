@@ -55,9 +55,12 @@ iptv-sources
 epg.112114.xyz
 
 ​	https://epg.112114.xyz/pp.xml
+
 ​	https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+
 ​	https://epg.112114.xyz/pp.xml.gz
-​	https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
+​
+  https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
 
 epg.51zmt.top:8001
 
