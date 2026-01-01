@@ -19,8 +19,6 @@ http://192.168.3.1:4033/udp/233.18.204.63:5140
 http://192.168.3.1:4033/udp/233.18.204.47:5140
 #EXTINF:-1 tvg-id="161" tvg-name="金鹰纪实" tvg-logo="https://epg.deny.vip/df/金鹰纪实.png" group-title="上海",金鹰纪实HD
 http://192.168.3.1:4033/udp/233.18.204.104:5140
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="上海",纪实科教HD
-http://192.168.3.1:4033/udp/239.45.1.14:5140
 
 #EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="电影",CHC家庭影院HD
 http://192.168.3.1:4033/udp/233.18.204.173:5140
