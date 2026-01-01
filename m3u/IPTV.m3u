@@ -38,7 +38,7 @@ http://192.168.3.1:4033/udp/233.18.204.157:5140
 #EXTINF:-1 tvg-id="75" tvg-name="财富天下" tvg-logo="https://epg.deny.vip/df/财富天下.png" group-title="地方",财富天下
 http://192.168.3.1:4033/udp/233.18.204.231:5140
 #EXTINF:-1 tvg-id="83" tvg-name="快乐垂钓" tvg-logo="https://epg.deny.vip/df/快乐垂钓.png" group-title="地方",快乐垂钓HD
-http://192.168.3.1:4033/udp/233.18.204.44:5140
+http://192.168.3.1:4033/udp/233.18.204.42:5140
 #EXTINF:-1 tvg-id="84" tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="地方",茶频道HD
 http://192.168.3.1:4033/udp/233.18.204.43:5140
 #EXTINF:-1 tvg-id="93" tag-name="游戏风云" tvg-logo="https://epg.deny.vip/df/游戏风云.png" group-title="地方",游戏风云HD
