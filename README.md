@@ -64,7 +64,9 @@ epg.112114.xyz
 
 epg.51zmt.top:8001
 
-​	[http://epg.51zmt.top:8000/e.xml](https://epg.51zmt.top:8001/e.xml) 
+​	http://epg.51zmt.top:8000/e.xml
+
+  https://epg.51zmt.top:8001/e.xml 
 
 
 
