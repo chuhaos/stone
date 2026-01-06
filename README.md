@@ -12,7 +12,7 @@ YanG:
 
 冰茶：
 
-​	https://188766.xyz/itv
+​	https://show.188766.xyz/
 
 itvlist（建议开启自动刷新配置和聚合配置）：
 
