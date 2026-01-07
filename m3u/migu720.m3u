@@ -1,0 +1,224 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tvg/CCTV1.png" group-title="央视频道",CCTV1综合
+http://192.168.3.33:5080/migu720p.php?id=608807420
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tvg/CCTV2.png" group-title="央视频道",CCTV2财经
+http://192.168.3.33:5080/migu720p.php?id=631780532
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tvg/CCTV3.png" group-title="央视频道",CCTV3综艺
+http://192.168.3.33:5080/migu720p.php?id=624878271
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tvg/CCTV4.png" group-title="央视频道",CCTV4中文国际
+http://192.168.3.33:5080/migu720p.php?id=631780421
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tvg/CCTV5.png" group-title="央视频道",CCTV5体育
+http://192.168.3.33:5080/migu720p.php?id=641886683
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tvg/CCTV5PLUS.png" group-title="央视频道",CCTV5+体育赛事
+http://192.168.3.33:5080/migu720p.php?id=641886773
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tvg/CCTV6.png" group-title="央视频道",CCTV6电影
+http://192.168.3.33:5080/migu720p.php?id=624878396
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tvg/CCTV7.png" group-title="央视频道",CCTV7国防军事
+http://192.168.3.33:5080/migu720p.php?id=673168121
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tvg/CCTV8.png" group-title="央视频道",CCTV8电视剧
+http://192.168.3.33:5080/migu720p.php?id=624878356
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tvg/CCTV9.png" group-title="央视频道",CCTV9纪录
+http://192.168.3.33:5080/migu720p.php?id=673168140
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tvg/CCTV10.png" group-title="央视频道",CCTV10科教
+http://192.168.3.33:5080/migu720p.php?id=624878405
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tvg/CCTV11.png" group-title="央视频道",CCTV11戏曲
+http://192.168.3.33:5080/migu720p.php?id=667987558
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tvg/CCTV12.png" group-title="央视频道",CCTV12社会与法
+http://192.168.3.33:5080/migu720p.php?id=673168185
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tvg/CCTV13.png" group-title="央视频道",CCTV13新闻
+http://192.168.3.33:5080/migu720p.php?id=608807423
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tvg/CCTV14.png" group-title="央视频道",CCTV14少儿
+http://192.168.3.33:5080/migu720p.php?id=624878440
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tvg/CCTV15.png" group-title="央视频道",CCTV15音乐
+http://192.168.3.33:5080/migu720p.php?id=673168223
+#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tvg/CCTV17.png" group-title="央视频道",CCTV17农业农村
+http://192.168.3.33:5080/migu720p.php?id=673168256
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tvg/CCTV4.png" group-title="央视频道",CCTV4欧洲
+http://192.168.3.33:5080/migu720p.php?id=608807419
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tvg/CCTV4.png" group-title="央视频道",CCTV4美洲
+http://192.168.3.33:5080/migu720p.php?id=608807416
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tvg/CGTN.png" group-title="央视频道",CGTN
+http://192.168.3.33:5080/migu720p.php?id=609017205
+#EXTINF:-1 tvg-name="CGTN外语纪录" group-title="央视频道",CGTN外语纪录
+http://192.168.3.33:5080/migu720p.php?id=609006487
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="央视频道",CGTN阿拉伯语
+http://192.168.3.33:5080/migu720p.php?id=609154345
+#EXTINF:-1 tvg-name="CGTN西班牙语" group-title="央视频道",CGTN西班牙语
+http://192.168.3.33:5080/migu720p.php?id=609006450
+#EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道",CGTN法语
+http://192.168.3.33:5080/migu720p.php?id=609006476
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN俄语
+http://192.168.3.33:5080/migu720p.php?id=609006446
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tvg/东方卫视.png" group-title="卫视频道",东方卫视
+http://192.168.3.33:5080/migu720p.php?id=651632648
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tvg/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://192.168.3.33:5080/migu720p.php?id=623899368
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tvg/广东卫视.png" group-title="卫视频道",广东卫视
+http://192.168.3.33:5080/migu720p.php?id=608831231
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tvg/江西卫视.png" group-title="卫视频道",江西卫视
+http://192.168.3.33:5080/migu720p.php?id=783847495
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tvg/河南卫视.png" group-title="卫视频道",河南卫视
+http://192.168.3.33:5080/migu720p.php?id=790187291
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tvg/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://192.168.3.33:5080/migu720p.php?id=738910838
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tvg/广东大湾区卫视.png" group-title="卫视频道",大湾区卫视
+http://192.168.3.33:5080/migu720p.php?id=608917627
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tvg/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://192.168.3.33:5080/migu720p.php?id=947472496
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tvg/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://192.168.3.33:5080/migu720p.php?id=947472500
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tvg/青海卫视.png" group-title="卫视频道",青海卫视
+http://192.168.3.33:5080/migu720p.php?id=947472506
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tvg/东南卫视.png" group-title="卫视频道",东南卫视
+http://192.168.3.33:5080/migu720p.php?id=849116810
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tvg/海南卫视.png" group-title="卫视频道",海南卫视
+http://192.168.3.33:5080/migu720p.php?id=947472502
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tvg/海峡卫视.png" group-title="卫视频道",海峡卫视
+http://192.168.3.33:5080/migu720p.php?id=849119120
+#EXTINF:-1 tvg-name="中国农林卫视" group-title="卫视频道",中国农林卫视
+http://192.168.3.33:5080/migu720p.php?id=956904896
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tvg/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://192.168.3.33:5080/migu720p.php?id=956923145
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tvg/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://192.168.3.33:5080/migu720p.php?id=630291707
+
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tvg/上海新闻综合.png" group-title="地方频道",上海新闻综合
+http://192.168.3.33:5080/migu720p.php?id=651632657
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tvg/上海东方影视.png" group-title="地方频道",上视东方影视
+http://192.168.3.33:5080/migu720p.php?id=617290047
+#EXTINF:-1 tvg-name="南京新闻综合频道" tvg-logo="https://live.fanmingming.com/tvg/南京新闻综合.png" group-title="地方频道",南京新闻综合频道
+http://192.168.3.33:5080/migu720p.php?id=838109047
+#EXTINF:-1 tvg-name="南京教科频道" tvg-logo="https://live.fanmingming.com/tvg/南京教科.png" group-title="地方频道",南京教科频道
+http://192.168.3.33:5080/migu720p.php?id=838153729
+#EXTINF:-1 tvg-name="南京十八频道" group-title="地方频道",南京十八频道
+http://192.168.3.33:5080/migu720p.php?id=838151753
+#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="https://live.fanmingming.com/tvg/江苏城市.png" group-title="地方频道",江苏城市频道
+http://192.168.3.33:5080/migu720p.php?id=626064714
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.com/tvg/江苏国际.png" group-title="地方频道",江苏国际
+http://192.168.3.33:5080/migu720p.php?id=626064674
+#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="https://live.fanmingming.com/tvg/江苏影视.png" group-title="地方频道",江苏影视频道
+http://192.168.3.33:5080/migu720p.php?id=626064697
+#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="https://live.fanmingming.com/tvg/江苏综艺.png" group-title="地方频道",江苏综艺频道
+http://192.168.3.33:5080/migu720p.php?id=626065193
+#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="https://live.fanmingming.com/tvg/江苏公共新闻.png" group-title="地方频道",公共新闻频道
+http://192.168.3.33:5080/migu720p.php?id=626064693
+#EXTINF:-1 tvg-name="盐城新闻综合" group-title="地方频道",盐城新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731825
+#EXTINF:-1 tvg-name="淮安新闻综合" group-title="地方频道",淮安新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731826
+#EXTINF:-1 tvg-name="泰州新闻综合" group-title="地方频道",泰州新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731818
+#EXTINF:-1 tvg-name="连云港新闻综合" group-title="地方频道",连云港新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731715
+#EXTINF:-1 tvg-name="宿迁新闻综合" group-title="地方频道",宿迁新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731832
+#EXTINF:-1 tvg-name="徐州新闻综合" group-title="地方频道",徐州新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639731747
+#EXTINF:-1 tvg-name="江阴新闻综合" group-title="地方频道",江阴新闻综合
+http://192.168.3.33:5080/migu720p.php?id=955227979
+#EXTINF:-1 tvg-name="南通新闻综合" group-title="地方频道",南通新闻综合
+http://192.168.3.33:5080/migu720p.php?id=955227985
+#EXTINF:-1 tvg-name="宜兴新闻综合" group-title="地方频道",宜兴新闻综合
+http://192.168.3.33:5080/migu720p.php?id=955227996
+#EXTINF:-1 tvg-name="溧水新闻综合" group-title="地方频道",溧水新闻综合
+http://192.168.3.33:5080/migu720p.php?id=639737327
+#EXTINF:-1 tvg-name="陕西银龄频道" group-title="地方频道",陕西银龄频道
+http://192.168.3.33:5080/migu720p.php?id=956909362
+#EXTINF:-1 tvg-name="陕西都市青春频道" group-title="地方频道",陕西都市青春频道
+http://192.168.3.33:5080/migu720p.php?id=956909358
+#EXTINF:-1 tvg-name="陕西体育休闲频道" group-title="地方频道",陕西体育休闲频道
+http://192.168.3.33:5080/migu720p.php?id=956909356
+#EXTINF:-1 tvg-name="陕西秦腔频道" group-title="地方频道",陕西秦腔频道
+http://192.168.3.33:5080/migu720p.php?id=956909303
+#EXTINF:-1 tvg-name="陕西新闻资讯频道" group-title="地方频道",陕西新闻资讯频道
+http://192.168.3.33:5080/migu720p.php?id=956909289
+
+#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://live.fanmingming.com/tvg/CHC电影.png" group-title="电影轮播",经典香港电影
+http://192.168.3.33:5080/migu720p.php?id=625703337
+#EXTINF:-1 tvg-name="抗战经典影片" group-title="电影轮播",抗战经典影片
+http://192.168.3.33:5080/migu720p.php?id=617432318
+#EXTINF:-1 tvg-name="新片放映厅" group-title="电影轮播",新片放映厅
+http://192.168.3.33:5080/migu720p.php?id=619495952
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tvg/CHC影迷电影.png" group-title="电影轮播",CHC影迷电影
+http://192.168.3.33:5080/migu720p.php?id=952383261
+#EXTINF:-1 tvg-name="高清大片" group-title="电影轮播",高清大片
+http://192.168.3.33:5080/migu720p.php?id=629943678
+#EXTINF:-1 tvg-name="南方影视" group-title="电影轮播",南方影视
+http://192.168.3.33:5080/migu720p.php?id=614961829
+#EXTINF:-1 tvg-name="血色山河·抗日战争影像志" group-title="电影轮播",血色山河·抗日战争影像志
+http://192.168.3.33:5080/migu720p.php?id=713600957
+
+#EXTINF:-1 tvg-name="熊猫频道01高清" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道01高清
+http://192.168.3.33:5080/migu720p.php?id=609158151
+#EXTINF:-1 tvg-name="熊猫频道1" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道1
+http://192.168.3.33:5080/migu720p.php?id=608933610
+#EXTINF:-1 tvg-name="熊猫频道2" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道2
+http://192.168.3.33:5080/migu720p.php?id=608933640
+#EXTINF:-1 tvg-name="熊猫频道3" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道3
+http://192.168.3.33:5080/migu720p.php?id=608934619
+#EXTINF:-1 tvg-name="熊猫频道4" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道4
+http://192.168.3.33:5080/migu720p.php?id=608934721
+#EXTINF:-1 tvg-name="熊猫频道5" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道5
+http://192.168.3.33:5080/migu720p.php?id=608935104
+#EXTINF:-1 tvg-name="熊猫频道6" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道6
+http://192.168.3.33:5080/migu720p.php?id=608935797
+#EXTINF:-1 tvg-name="熊猫频道7" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道7
+http://192.168.3.33:5080/migu720p.php?id=609169286
+#EXTINF:-1 tvg-name="熊猫频道8" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道8
+http://192.168.3.33:5080/migu720p.php?id=609169287
+#EXTINF:-1 tvg-name="熊猫频道9" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道9
+http://192.168.3.33:5080/migu720p.php?id=609169226
+#EXTINF:-1 tvg-name="熊猫频道10" tvg-logo="https://live.fanmingming.com/tvg/iPanda.png" group-title="熊猫频道",熊猫频道10
+http://192.168.3.33:5080/migu720p.php?id=609169285
+
+#EXTINF:-1 tvg-name="咪咕24小时体育台" group-title="体育竞技",咪咕24小时体育台
+http://192.168.3.33:5080/migu720p.php?id=654102378
+#EXTINF:-1 tvg-name="24小时城市联赛轮播台" group-title="体育竞技",24小时城市联赛轮播台
+http://192.168.3.33:5080/migu720p.php?id=915512915
+#EXTINF:-1 tvg-name="五环传奇" group-title="体育竞技",五环传奇
+http://192.168.3.33:5080/migu720p.php?id=707671890
+#EXTINF:-1 tvg-name="赛事最经典" group-title="体育竞技",赛事最经典
+http://192.168.3.33:5080/migu720p.php?id=646596895
+#EXTINF:-1 tvg-name="掼蛋精英赛" group-title="体育竞技",掼蛋精英赛
+http://192.168.3.33:5080/migu720p.php?id=631354620
+#EXTINF:-1 tvg-name="体坛名栏汇" group-title="体育竞技",体坛名栏汇
+http://192.168.3.33:5080/migu720p.php?id=629943305
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="体育竞技",四海钓鱼
+http://192.168.3.33:5080/migu720p.php?id=637444975
+#EXTINF:-1 tvg-name="武术世界" group-title="体育竞技",武术世界
+http://192.168.3.33:5080/migu720p.php?id=958475359
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tvg/CETV1.png" group-title="少儿教育",CETV1
+http://192.168.3.33:5080/migu720p.php?id=923287154
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tvg/CETV2.png" group-title="少儿教育",CETV2
+http://192.168.3.33:5080/migu720p.php?id=923287211
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tvg/CETV4.png" group-title="少儿教育",CETV4
+http://192.168.3.33:5080/migu720p.php?id=923287339
+#EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="https://live.fanmingming.com/tvg/优漫卡通.png" group-title="少儿教育",优漫卡通频道
+http://192.168.3.33:5080/migu720p.php?id=626064703
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tvg/嘉佳卡通.png" group-title="少儿教育",嘉佳卡通
+http://192.168.3.33:5080/migu720p.php?id=614952364
+#EXTINF:-1 tvg-name="经典动画大集合" group-title="少儿教育",经典动画大集合
+http://192.168.3.33:5080/migu720p.php?id=629942219
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tvg/山东教育.png" group-title="少儿教育",山东教育
+http://192.168.3.33:5080/migu720p.php?id=609154353
+#EXTINF:-1 tvg-name="中学生" group-title="少儿教育",中学生
+http://192.168.3.33:5080/migu720p.php?id=708869532
+#EXTINF:-1 tvg-name="江苏教育" group-title="少儿教育",江苏教育
+http://192.168.3.33:5080/migu720p.php?id=628008321
+
+#EXTINF:-1 tvg-name="老故事" group-title="其他轮播",老故事
+http://192.168.3.33:5080/migu720p.php?id=884121956
+#EXTINF:-1 tvg-name="财富天下" group-title="其他轮播",财富天下
+http://192.168.3.33:5080/migu720p.php?id=956923159
+#EXTINF:-1 tvg-name="和美乡途轮播台" group-title="其他轮播",和美乡途轮播台
+http://192.168.3.33:5080/migu720p.php?id=713591450
+#EXTINF:-1 tvg-name="最强综艺趴" group-title="其他轮播",最强综艺趴
+http://192.168.3.33:5080/migu720p.php?id=629942228
+#EXTINF:-1 tvg-name="新动力量创一流" group-title="其他轮播",新动力量创一流
+http://192.168.3.33:5080/migu720p.php?id=713589837
+#EXTINF:-1 tvg-name="环球旅游" group-title="其他轮播",环球旅游
+http://192.168.3.33:5080/migu720p.php?id=958475356
+#EXTINF:-1 tvg-name="钱塘江" group-title="其他轮播",钱塘江
+http://192.168.3.33:5080/migu720p.php?id=647370520
