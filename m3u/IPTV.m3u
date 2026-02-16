@@ -83,7 +83,7 @@ http://192.168.3.1:4033/udp/233.18.204.227:5140
 http://192.168.3.1:4033/udp/233.18.204.228:5140
 
 #EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://epg.deny.vip/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
-http://192.168.3.1:4033/udp/233.18.204.168:5140
+http://192.168.3.1:4033/udp/233.18.204.52:5140
 #EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://epg.deny.vip/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
 http://192.168.3.1:4033/udp/233.18.204.68:5140
 #EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://epg.deny.vip/cctv/CCTV-3.png" group-title="央视",CCTV-3HD
