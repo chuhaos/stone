@@ -1,0 +1,326 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="107" tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai1.png" group-title="上海",新闻综合
+igmp://233.18.204.57:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001346060
+#EXTINF:-1 tvg-id="103" tvg-name="都市频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai2.png" group-title="上海",都市频道
+igmp://233.18.204.53:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000990914
+#EXTINF:-1 tvg-id="109" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" group-title="上海",第一财经
+igmp://233.18.204.59:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001346062
+#EXTINF:-1 tvg-id="118" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",东方财经
+igmp://233.18.204.65:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006880079
+#EXTINF:-1 tvg-id="105" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai3.png" group-title="上海",东方影视
+igmp://233.18.204.55:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000990915
+#EXTINF:-1 tvg-id="100" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="上海",欢笑剧场
+igmp://233.18.204.50:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001367710
+#EXTINF:-1 tvg-id="700" tvg-name="欢笑剧场4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" group-title="上海",欢笑剧场
+igmp://233.18.204.205:5140?fcc=124.75.26.151:15970
+#(无rtsp)
+#EXTINF:-1 tvg-id="98" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="上海",都市剧场
+igmp://233.18.204.48:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555881
+#EXTINF:-1 tvg-id="108" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai5.png" group-title="上海",五星体育
+igmp://233.18.204.58:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001161091
+#EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png" group-title="上海",哈哈炫动
+igmp://233.18.204.54:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004641019
+#EXTINF:-1 tvg-id="96" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="上海",动漫秀场
+igmp://233.18.204.46:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555886
+#EXTINF:-1 tvg-id="116" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanghai6.png" group-title="上海",上海教育
+igmp://233.18.204.63:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000066
+#EXTINF:-1 tvg-id="120" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="上海",金色学堂
+igmp://233.18.204.66:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004492970
+#EXTINF:-1 tvg-id="94" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",生活时尚
+igmp://233.18.204.45:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555893
+#EXTINF:-1 tvg-id="97" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="上海",乐游
+igmp://233.18.204.47:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001368437
+#EXTINF:-1 tvg-id="99" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="上海",法治天地
+igmp://233.18.204.49:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004492967
+#EXTINF:-1 tvg-id="93" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" group-title="上海",游戏风云
+igmp://233.18.204.44:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555894
+#EXTINF:-1 tvg-id="102" tvg-name="CCTV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1综合
+igmp://233.18.204.52:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111128
+#EXTINF:-1 tvg-id="125" tvg-name="CCTV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="央视",CCTV-2财经
+igmp://233.18.204.68:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000036
+#EXTINF:-1 tvg-id="126" tvg-name="CCTV-3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="央视",CCTV-3综艺
+igmp://233.18.204.69:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369028
+#EXTINF:-1 tvg-id="127" tvg-name="CCTV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="央视",CCTV-4中文国际
+igmp://233.18.204.70:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000037
+#EXTINF:-1 tvg-id="128" tvg-name="CCTV-5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="央视",CCTV-5体育
+igmp://233.18.204.71:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369029
+#EXTINF:-1 tvg-id="123" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="央视",CCTV-5+体育赛事
+igmp://233.18.204.67:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000068
+#EXTINF:-1 tvg-id="129" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="央视",CCTV-6电影
+igmp://233.18.204.72:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369030
+#EXTINF:-1 tvg-id="130" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="央视",CCTV-7国防军事
+igmp://233.18.204.73:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000038
+#EXTINF:-1 tvg-id="131" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="央视",CCTV-8电视剧
+igmp://233.18.204.74:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369033
+#EXTINF:-1 tvg-id="132" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="央视",CCTV-9纪录
+igmp://233.18.204.75:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000039
+#EXTINF:-1 tvg-id="133" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="央视",CCTV-10科教
+igmp://233.18.204.76:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003949784
+#EXTINF:-1 tvg-id="134" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="央视",CCTV-11戏曲
+igmp://233.18.204.77:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000053
+#EXTINF:-1 tvg-id="135" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="央视",CCTV-12社会与法
+igmp://233.18.204.78:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000040
+#EXTINF:-1 tvg-id="136" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="央视",CCTV-13新闻
+igmp://233.18.204.79:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000054
+#EXTINF:-1 tvg-id="137" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="央视",CCTV-14少儿
+igmp://233.18.204.80:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003949788
+#EXTINF:-1 tvg-id="138" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="央视",CCTV-15音乐
+igmp://233.18.204.81:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000055
+#EXTINF:-1 tvg-id="139" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+igmp://233.18.204.82:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000061
+#EXTINF:-1 tvg-id="648" tvg-name="CCTV-16_4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+igmp://233.18.204.215:5140?fcc=124.75.25.216:7777
+#(无rtsp)
+#EXTINF:-1 tvg-id="140" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17农业农村
+igmp://233.18.204.83:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000041
+#EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清
+igmp://233.18.204.188:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000120
+#EXTINF:-1 tvg-id="656" tvg-name="CCTV-4K 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="央视",CCTV-4K超高清
+igmp://233.18.204.204:5140?fcc=124.75.25.214:7777
+#(无rtsp)
+#EXTINF:-1 tvg-id="91" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视",央视文化精品
+igmp://233.18.204.186:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000118
+#EXTINF:-1 tvg-id="79" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="央视",风云足球
+igmp://233.18.204.176:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000108
+#EXTINF:-1 tvg-id="80" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视",央视台球
+igmp://233.18.204.177:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000109
+#EXTINF:-1 tvg-id="86" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视",高尔夫网球
+igmp://233.18.204.181:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000113
+#EXTINF:-1 tvg-id="87" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="央视",怀旧剧场
+igmp://233.18.204.182:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000114
+#EXTINF:-1 tvg-id="88" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="央视",风云剧场
+igmp://233.18.204.183:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000115
+#EXTINF:-1 tvg-id="89" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="央视",第一剧场
+igmp://233.18.204.184:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000116
+#EXTINF:-1 tvg-id="81" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="央视",兵器科技
+igmp://233.18.204.178:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000110
+#EXTINF:-1 tvg-id="82" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="央视",世界地理
+igmp://233.18.204.179:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000111
+#EXTINF:-1 tvg-id="90" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="央视",风云音乐
+igmp://233.18.204.185:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000117
+#EXTINF:-1 tvg-id="85" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="央视",女性时尚
+igmp://233.18.204.180:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000112
+#EXTINF:-1 tvg-id="155" tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV1.png" group-title="",中国教育-1
+igmp://233.18.204.98:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003138605
+#EXTINF:-1 tvg-id="239" tvg-name="中国教育-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV2.png" group-title="",中国教育-2
+igmp://233.18.204.154:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000079471
+#EXTINF:-1 tvg-id="169" tvg-name="中国教育-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV4.png" group-title="",中国教育-4
+igmp://233.18.204.111:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006876519
+#EXTINF:-1 tvg-id="92" tvg-name="早期教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" group-title="",早期教育
+igmp://233.18.204.187:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000119
+#EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN.png" group-title="",CGTN
+igmp://233.18.204.28:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000001354
+#EXTINF:-1 tvg-id="144" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
+igmp://233.18.204.87:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181361
+#EXTINF:-1 tvg-id="644" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
+igmp://233.18.204.209:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000130
+#EXTINF:-1 tvg-id="167" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kakushaoer.png" group-title="",卡酷少儿
+igmp://233.18.204.109:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000052
+#EXTINF:-1 tvg-id="154" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视",天津卫视
+igmp://233.18.204.97:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003450000
+#EXTINF:-1 tvg-id="160" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视",河北卫视
+igmp://233.18.204.103:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000100000002
+#EXTINF:-1 tvg-id="172" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="卫视",山西卫视
+igmp://233.18.204.211:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000129
+#EXTINF:-1 tvg-id="173" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
+igmp://233.18.204.217:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000132
+#EXTINF:-1 tvg-id="153" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视",辽宁卫视
+igmp://233.18.204.96:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003450001
+#EXTINF:-1 tvg-id="350" tvg-name="家庭理财" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jtlc.png" group-title="",家庭理财
+igmp://233.18.204.157:5140?fcc=124.75.25.215:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001872767
+#EXTINF:-1 tvg-id="166" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视",吉林卫视
+igmp://233.18.204.108:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000046
+#EXTINF:-1 tvg-id="243" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yanbian.png" group-title="卫视",延边卫视
+igmp://233.18.204.155:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000102
+#EXTINF:-1 tvg-id="147" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
+igmp://233.18.204.90:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181356
+#EXTINF:-1 tvg-id="101" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视",东方卫视
+igmp://233.18.204.51:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111131
+#EXTINF:-1 tvg-id="601" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视",东方卫视
+igmp://233.18.204.224:5140?fcc=124.75.25.213:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000138
+#EXTINF:-1 tvg-id="142" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
+igmp://233.18.204.85:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111129
+#EXTINF:-1 tvg-id="642" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
+igmp://233.18.204.226:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000141
+#EXTINF:-1 tvg-id="197" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="地方",财富天下
+igmp://233.18.204.231:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000145
+#EXTINF:-1 tvg-id="141" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
+igmp://233.18.204.84:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111130
+#EXTINF:-1 tvg-id="641" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
+igmp://233.18.204.229:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000139
+#EXTINF:-1 tvg-id="150" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视",安徽卫视
+igmp://233.18.204.93:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003540416
+#EXTINF:-1 tvg-id="151" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视",东南卫视
+igmp://233.18.204.94:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003540417
+#EXTINF:-1 tvg-id="152" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视",江西卫视
+igmp://233.18.204.95:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003468921
+#EXTINF:-1 tvg-id="148" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视
+igmp://233.18.204.91:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000911992
+#EXTINF:-1 tvg-id="929" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视
+igmp://233.18.204.228:5140?fcc=124.75.25.211:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000143
+#EXTINF:-1 tvg-id="163" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视",河南卫视
+igmp://233.18.204.105:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000044
+#EXTINF:-1 tvg-id="149" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视",湖北卫视
+igmp://233.18.204.92:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000911989
+#EXTINF:-1 tvg-id="143" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
+igmp://233.18.204.86:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181358
+#EXTINF:-1 tvg-id="643" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
+igmp://233.18.204.227:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000140
+#EXTINF:-1 tvg-id="161" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png" group-title="",金鹰纪实
+igmp://233.18.204.104:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004766929
+#EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="",金鹰卡通
+igmp://233.18.204.113:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000057
+#EXTINF:-1 tvg-id="83" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="",快乐垂钓
+igmp://233.18.204.42:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004766930
+#EXTINF:-1 tvg-id="145" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
+igmp://233.18.204.88:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181359
+#EXTINF:-1 tvg-id="645" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
+igmp://233.18.204.218:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000133
+#EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jjkt.png" group-title="",嘉佳卡通
+igmp://233.18.204.151:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000484998
+#EXTINF:-1 tvg-id="146" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+igmp://233.18.204.89:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181362
+#EXTINF:-1 tvg-id="646" tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
+igmp://233.18.204.219:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000134
+#EXTINF:-1 tvg-id="165" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视",广西卫视
+igmp://233.18.204.107:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000045
+#EXTINF:-1 tvg-id="159" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视",海南卫视
+igmp://233.18.204.102:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004252684
+#EXTINF:-1 tvg-id="162" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视",三沙卫视
+igmp://233.18.204.172:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000088
+#EXTINF:-1 tvg-id="157" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="卫视",重庆卫视
+igmp://233.18.204.100:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003840707
+#EXTINF:-1 tvg-id="156" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视
+igmp://233.18.204.99:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003840706
+#EXTINF:-1 tvg-id="930" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视
+igmp://233.18.204.225:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000142
+#EXTINF:-1 tvg-id="158" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视",贵州卫视
+igmp://233.18.204.101:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004252663
+#EXTINF:-1 tvg-id="164" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="卫视",云南卫视
+igmp://233.18.204.106:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000043
+#EXTINF:-1 tvg-id="176" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视",西藏卫视
+igmp://233.18.204.222:5140?fcc=124.75.25.211:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000137
+#EXTINF:-1 tvg-id="177" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视",陕西卫视
+igmp://233.18.204.223:5140?fcc=124.75.25.212:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000056
+#EXTINF:-1 tvg-id="168" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视",甘肃卫视
+igmp://233.18.204.110:5140?fcc=124.75.25.214:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000067
+#EXTINF:-1 tvg-id="170" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视",青海卫视
+igmp://233.18.204.112:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000101
+#EXTINF:-1 tvg-id="178" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视",宁夏卫视
+igmp://233.18.204.230:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000144
+#EXTINF:-1 tvg-id="174" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" group-title="卫视",新疆卫视
+igmp://233.18.204.220:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000135
+#EXTINF:-1 tvg-id="175" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视",兵团卫视
+igmp://233.18.204.221:5140?fcc=124.75.25.216:7777
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000136
+#EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="",CHC家庭影院
+igmp://233.18.204.173:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000105
+#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="",CHC动作电影
+igmp://233.18.204.174:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000106
+#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="",CHC影迷电影
+igmp://233.18.204.175:5140?fcc=124.75.26.151:15970
+#rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000107
